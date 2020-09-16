@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/jsx/static/css/main.d8df8c0a.chunk.css",
+    "main.js": "/jsx/static/js/main.593798ca.chunk.js",
+    "main.js.map": "/jsx/static/js/main.593798ca.chunk.js.map",
+    "runtime-main.js": "/jsx/static/js/runtime-main.28d00341.js",
+    "runtime-main.js.map": "/jsx/static/js/runtime-main.28d00341.js.map",
+    "static/js/2.2eab61db.chunk.js": "/jsx/static/js/2.2eab61db.chunk.js",
+    "static/js/2.2eab61db.chunk.js.map": "/jsx/static/js/2.2eab61db.chunk.js.map",
+    "index.html": "/jsx/index.html",
+    "precache-manifest.c0e380a336760aadd31879ba50afa376.js": "/jsx/precache-manifest.c0e380a336760aadd31879ba50afa376.js",
+    "service-worker.js": "/jsx/service-worker.js",
+    "static/css/main.d8df8c0a.chunk.css.map": "/jsx/static/css/main.d8df8c0a.chunk.css.map",
+    "static/js/2.2eab61db.chunk.js.LICENSE.txt": "/jsx/static/js/2.2eab61db.chunk.js.LICENSE.txt",
+    "static/media/computer-programming-1.jpg": "/jsx/static/media/computer-programming-1.2eb3255f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.28d00341.js",
+    "static/js/2.2eab61db.chunk.js",
+    "static/css/main.d8df8c0a.chunk.css",
+    "static/js/main.593798ca.chunk.js"
+  ]
+}
